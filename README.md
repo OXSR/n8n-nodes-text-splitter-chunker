@@ -10,3 +10,5 @@ Hecho por OXSR.
 ¡Cualquier like o estrella es un gran apoyo! ⭐**
 
 ---
+
+URL: https://www.npmjs.com/package/n8n-nodes-text-splitter-chunker
