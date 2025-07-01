@@ -1,0 +1,30 @@
+{
+  "name": "n8n-nodes-text-splitter-chunker",
+  "version": "1.0.4",
+  "description": "n8n node to split text into chunks.",
+  "main": "main.js",
+  "types": "dist/TextSplitterChunker.node.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "n8n",
+    "node",
+    "text",
+    "splitter",
+    "chunker"
+  ],
+  "author": "OXSR <oriolrotllant3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "n8n-workflow": "^1.44.0",
+    "n8n-core": "^1.44.0"
+  },
+  "n8n": {
+    "nodes": [
+      "dist/TextSplitterChunker.node.js"
+    ]
+  }
+}
