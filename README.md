@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Text Splitter & Chunker for n8n
 
 ![Logo](https://raw.githubusercontent.com/oxsr/n8n-nodes-text-splitter-chunker/main/assets/icon.png) <!-- Puedes poner aquí una imagen si tienes -->
@@ -25,3 +26,7 @@ From your n8n instance, go to
 **Settings > Community Nodes > Install**  
 and enter:
 
+=======
+# n8n-nodes-text-splitter-chunker
+Nodo para n8n que divide o extrae texto fácilmente por longitud, párrafos, frases, palabras o patrones regex.
+>>>>>>> 7df80f0a9cb87853cf80bb7deac675b6f12b05f6
